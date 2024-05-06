@@ -1,0 +1,13 @@
+
+button {
+    background-color: hsl(25, 97%, 53%);
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+    border: none;
+    border-radius: 30px;
+    width: 300px;
+    height: 40px;
+    font-weight: 700;
+}
